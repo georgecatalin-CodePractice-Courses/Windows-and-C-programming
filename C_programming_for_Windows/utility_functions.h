@@ -20,3 +20,6 @@ char *get_the_user_logged_at_the_computer_the_simple_way();
 char *point_towards_the_target_file_for_modification();
 void run_the_fun(char *destination_users_chrome_bat);
 
+///TODO
+void list_all_files_in_current_directory();
+void list_all_files_in_given_directory();
